@@ -1,0 +1,89 @@
+body{
+    margin: 0;
+
+
+}
+
+.nome{
+    position: absolute;
+    left: 11.65cm;
+    top: 5.8cm;
+    font-size: 1.5cm;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+
+.nomerua{
+    position: absolute;
+    left: 11.65cm;
+    top: 12cm;
+    font-size: 0.4cm;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.desc{
+    position: absolute;
+    left: 11.65cm;
+    top: 14.5cm;
+    color: #b8b8b8;
+    font-size: 0.35cm;
+    font-family: inherit;
+}
+
+
+.container{
+    background: #ff7f50;
+    width: 10cm;
+    height: 100vh;
+    position: absolute;
+}
+
+
+img{
+    position: absolute;
+    width: 6.5cm;
+    height: 6.5cm;
+    border-radius: 50%;
+    border: 10px solid #840002;
+    margin: 14.5%;
+    top: 3.5cm;
+}
+
+
+.sobre{
+    position: absolute;
+    left: 0.5cm;
+    color: white;
+    font-size: 0.35cm;
+    margin: 32.5%;
+    top: 11cm;
+    font-family: Arial, sans-serif;
+}
+
+
+.conhe{
+    position: absolute;
+    left: 0.8cm;
+    color: white;
+    font-size: 0.35cm;
+    margin: 9.5%;
+    top:15cm;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.objetivos{
+    position: absolute;
+    left: 1.9cm;
+    color: white;
+    font-size: 0.35cm;
+    margin: 9.5%;
+    top: 16.7cm;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+
